@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stanisław Dera</h1>
 <h3 align="center">A 15-year-old webdeveloper</h3>
 
-- 🔭 I’m currently working on [:Dankon](https://github.com/stanislawdera/dankon)
+- 🔭 I’m currently working on [:Dankon (Flutter app)](https://github.com/stanislawdera/dankon)
 
 - 🌱 I’m currently learning **Flutter and React.js**
 
-- 📫 How to reach me **stanislaw.dera@outlook.com**
+- 📫 Reach me at **stanislaw.dera@outlook.com**
+
+- ⚡ Fun fact **I'm keen on skiing ⛷️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
