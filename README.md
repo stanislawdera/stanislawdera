@@ -1,6 +1,5 @@
+<h1 align="center">Hi 👋, I'm Stanisław Dera</h1>
 <h3 align="center">15 y/o starting his coding journey and trying to build something useful</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanislawdera" alt="stanislawdera" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/stanislaw_dera" target="blank"><img src="https://img.shields.io/twitter/follow/stanislaw_dera?logo=twitter&style=for-the-badge" alt="stanislaw_dera" /></a> </p>
 
@@ -24,3 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stanislawdera&show_icons=true&locale=en&layout=compact" alt="stanislawdera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stanislawdera&" alt="stanislawdera" /></p>
+
