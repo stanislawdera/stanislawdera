@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 📫 How to reach me **stanislaw.dera@outlook.com**
-
-- ⚡ Favourite activities **skiing, cycling**
+- 📫 How to reach me **stanislaw@dera@dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
