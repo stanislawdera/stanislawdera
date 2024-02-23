@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanisław Dera</h1>
-<h3 align="center">16 y/o starting his coding journey and trying to build something useful</h3>
+<h3 align="center">17 y/o starting his coding journey and trying to build something useful</h3>
 
 <p align="left"> <a href="https://twitter.com/stanislaw_dera" target="blank"><img src="https://img.shields.io/twitter/follow/stanislaw_dera?logo=twitter&style=for-the-badge" alt="stanislaw_dera" /></a> </p>
 
