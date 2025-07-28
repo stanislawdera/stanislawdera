@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Stanisław Dera</h1>
-<h3 align="center">🎯 **18-year-old developer** passionate about building modern apps and occasionally tinkering with electronics</h3>
+<h1 align="center">👋 Hi, I'm Stanisław Dera</h1>
+<h3 align="center">🎯 18-year-old developer passionate about building modern apps and occasionally tinkering with electronics</h3>
 
 - 🌱 I’m currently learning **Next.js**
 - 👉 Check out my demo social media flutter app [Dankon](https://play.google.com/store/apps/details?id=dev.dera.dankon)
